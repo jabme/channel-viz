@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'mUwsDMkQp43F61ZsIoKYAIqTEXhavotCXc0n4Fae3LLW2ava', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [2125835668], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'NALCO Water Treatment Data', // Replaces Xively logo in the header
+		applicationName	= 'NALCO B1 Water Treatment Data', // Replaces Xively logo in the header
 		dataDuration	= '1month', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 1800, // Default interval for data to be displayed (in seconds)
 		dataColor	= '', // CSS HEX value of color to represent data (omit leading #)
